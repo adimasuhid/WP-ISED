@@ -1,0 +1,7 @@
+wordpress theme -done
+dlsu green -done
+email form -done
+-installed USP plugin to facilitate this
+-pwede image kung gusto nila
+-add new category for stories
+-/resources/usp.css -edited for form -edit plugin submission to add button class
